@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNS8lmLiTPnw2xa+EYI8FzGeTAC02NMjOWQwmQzq7HlXxede0/ana7Do7MuG0kbQQDsCHeEr0oBZRYV2aHQAgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\TesteBanco\\OperacaoBancaria.Domain\\OperacaoBancaria.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.0.1\\fluentvalidation.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\4.1.0\\mediatr.4.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
